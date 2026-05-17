@@ -1,27 +1,5 @@
-# Python Automation Portfolio
-
-This repository contains real-world Python automation projects:
-
-## 🔹 Projects
-
-### 1. File Organizer
-Automatically organizes files into folders.
-
-### 2. Web Scraper
-Extracts website data and saves to CSV.
-
-### 3. Email Automation
-Sends automated emails securely.
-
-## 🛠 Tech Used
-- Python
-- requests
-- BeautifulSoup
-- smtplib
-
-## 🎯 Goal
-To automate repetitive tasks and improve efficiency.
-
-## 📬 Contact
-Available for freelance & internships.
-Mail me:achukoluaakashkumar@gmail.com
+⚡ Aether Engine
+Autonomous Trend Detection → Content Generation → Monetization AI System
+Aether Engine is an agentic AI system that hunts early internet trends, transforms them into viral content ideas, and suggests monetization strategies — powered by modern AI agent frameworks.
+For any queries 
+Email: achukoluaakashkumar@gmail.com
